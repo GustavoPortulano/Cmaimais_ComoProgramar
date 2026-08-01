@@ -14,7 +14,7 @@ using std::getline;
 class GradeBook
 {
 public:
-    //função que exibe uma mensagem de boas-vindas ao usu´rio do GradeBook
+    //função que exibe uma mensagem de boas-vindas ao usuário do GradeBook
     void displayMessage(string courseName)
     {
         cout << "Welcome to the grade book for\n" << courseName << "!" 

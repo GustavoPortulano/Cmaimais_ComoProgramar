@@ -19,7 +19,7 @@ public:
     void setCourseName(string name)
     {
         courseName = name;  //armazena o nome do curso no objeto
-    }   // da função setCoursename
+    }                       // da função setCoursename
 
     //Função que obtém o nome do curso
     string getCourseName()
